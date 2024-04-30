@@ -17,4 +17,4 @@ Task 6: Database connection and data upload
 Task 7: Run Query on the database and show output on streamlit
 
 **RESULTS**
-The final results are displayed in streamlit 
+The final results are displayed in streamlit (Refer to the main.py file)
